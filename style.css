@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    background-color: azure;
+    height:100vh;
+    text-align: center;
+    align-items: center;
+    
+}
